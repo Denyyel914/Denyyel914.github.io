@@ -16,7 +16,7 @@ a {
 }
 
 .xbox-live {
-    background: url('https://compass-ssl.xbox.com/assets/ac/a6/aca6e765-1bf7-4f0a-9ca7-a738ddfddb65.jpg?n=Xbox_LiveHome_Hero-1084_1920x1080.jpg');
+    /* background: url('https://compass-ssl.xbox.com/assets/ac/a6/aca6e765-1bf7-4f0a-9ca7-a738ddfddb65.jpg?n=Xbox_LiveHome_Hero-1084_1920x1080.jpg'); */
     width: 100%;
     background-position: center;
     background-size: cover;
