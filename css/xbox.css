@@ -290,6 +290,14 @@ img {
     text-transform: uppercase;
 }
 
+.xbox-btn:hover {
+    opacity: 0.8;
+}
+
+.create:hover {
+    opacity: 0.8;
+}
+
 .background-3 {
     background: url('https://compass-ssl.xbox.com/assets/02/01/0201d0c6-0a20-4bc8-8ebc-5a130aaddc6d.jpg?n=XSX-Cross-promo_Page-Hero-1084_1920x720_01.jpg');
     background-position: center;
